@@ -1,0 +1,16 @@
+id: IC0042EEC
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:27:46.693357
+last_modified: 2023-02-10 00:27:46.693533
+source_metadata:
+  title: 'Candrakīrti: Madhyamakāvatāra'
+  language: bo
+bases:
+  '7444':
+    base_file: 7444.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
